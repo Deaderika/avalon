@@ -1,0 +1,141 @@
+.navbar-brand{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: -25px;
+    top: 48px;
+}
+.navbar-nav{
+    position: absolute;
+    width: 460px;
+    height: 30px;
+    left: 1025px;
+    right: -290px;
+    top: 47px;
+}
+
+.nav-link{
+    font-weight: bolder;
+    color: #121F42;
+}
+
+.header-content1{
+    position: relative;
+    width: 500px;
+    height: 92px;
+    left: -25px;
+    top: 180px;
+}
+
+.header-content2{
+    position: relative;
+    width: 550px;
+    height: 92px;
+    left: -23px;
+    top: 190px;
+}
+
+.header-button1{
+    position: relative;
+    width: 580px;
+    height: 92px;
+    left: -15px;
+    top: 240px;
+}
+
+.button1{
+    padding: 13px 15px 15px 20px;
+    background: #d86f76;
+    color: #ffff;
+    border-radius: 20px;
+    left: 90px;
+    font-weight: bold;
+    font-size: 18px
+}
+.button1:hover {
+    background: #364f6b;
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+.header-image {
+    position: relative;
+    width: 150px;
+    /* margin: auto; */
+    bottom: 200px;
+    padding-left: 720px;
+    animation: bounceTop-1 3s ease infinite;
+}
+
+.content1-image {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    left: -25px;
+    bottom: 170px;
+
+}
+
+.content1-judul{
+    position: relative;
+    width: 693px;
+    height: 105px;
+    left: 640px;
+    bottom: 590px;
+}
+
+.content1-penjelasan{
+    position: relative;
+    width: 598px;
+    height: 123px;
+    left: 709px;
+    bottom: 520px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+
+}
+
+.button2{
+    padding: 13px 15px 15px 20px;
+    background: #d86f76;
+    color: #ffff;
+    border-radius: 20px;
+    margin-top: 600px;
+
+    
+    font-weight: bold;
+    font-size: 18px
+
+}
+
+
+
+body{
+    background-color: #FAF4F4;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: #586D81;
+}
+/* .nav-link{
+    position: relative;
+width: 46px;
+height: 19px;
+left: 1025px;
+top: 59px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #121F42;
+} */
